@@ -2,3 +2,5 @@ deploy:
   type: git
   repository: https://github.com/lmg99999/lmg99999.github.io.git
   branch: main
+
+theme: jekyll-theme-architect
