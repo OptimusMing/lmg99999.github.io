@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repository: git@github.com:lmg99999/lmg99999.github.io.git
+  branch: main
